@@ -1,0 +1,18 @@
+ /*beautiful color scheme!*/
+
+h1 {
+    color:red;  
+}
+
+.friend{
+    background-color: blue; 
+}
+
+.friend p {
+    text-transform: uppercase;
+}
+
+html {
+    background: green;
+}
+
