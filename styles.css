@@ -1,11 +1,14 @@
- /*beautiful color scheme!*/
+
 
 h1 {
-    color:red;  
+    color: #07889B;     
 }
 
 .friend{
-    background-color: blue; 
+    background-color:#ff3834;
+    border: solid navy;    
+    border-radius: 15px 50px 30px 5px;
+    width: 17em;
 }
 
 .friend p {
@@ -13,6 +16,6 @@ h1 {
 }
 
 html {
-    background: green;
+    background:powderblue;
 }
 
